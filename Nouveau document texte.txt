@@ -1,0 +1,10 @@
+<footer>
+            
+                <span>Copiright &copy; 2016 Boukhemis. </span>
+            <ul>
+            <li><img src="img/100.png"> </li>
+                <li><img src="img/200.png"> </li>
+                <li><img src="img/300.png"> </li>
+            </ul>
+                
+                </footer>
